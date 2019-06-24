@@ -1,0 +1,15 @@
+SpectralCentroidMean	1278.902389	1024.324374	2614.163973	0.046889	-0.069504	0.929360
+SpectralCentroidVar	16.633225	16.599775	5.243041	0.016699	0.024163	0.004342
+SpectralSpreadMean	910.637683	391.991349	1586.757978	0.977702	0.575067	1.425349
+SpectralSpreadVar	14.594351	4.360264	1.902654	0.021737	0.009686	0.005966
+LoudnessMean	14.295612
+LoudnessVar	0.313401
+TimeFrameMean	0.377744
+TimeFrameVar	0.209240
+TotalEnergyMean	0.168968
+TotalEnergyVar	0.004118
+LogAttackTime	-1.911241
+TemporalIncrease	82.527612
+TemporalDecrease	-0.081555
+EnergyModulationFrequency	5.383301
+EnergyModulationAmplitude	0.003319
